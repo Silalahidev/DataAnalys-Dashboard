@@ -15,7 +15,7 @@ Analisis data penjualan dari toko fiktif menggunakan Microsoft Excel.
 - Jumlah penjualan per Produk
 
 ## 📁 File
-- Terdapat file = Retail_dataset&Dashboard.xlsx
+- Terdapat file = [Retail_dataset&Dashboard.xlsx](Retail_dataset&Dashboard.xlsx)
   yang berisikan 3 sheet diantarannya:
   1. Sheet Pertama = Bersikan Dataset Utama
   2. Sheet Kedua = Berisikan Pivot Table
